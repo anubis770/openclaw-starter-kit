@@ -10,7 +10,7 @@
 #
 # Usage:
 #   ./quality-gate.sh <owner/repo> <pr-number>
-#   ./quality-gate.sh jeffweisbein/myapp 42
+#
 #
 # Returns:
 #   "READY" — safe to review/merge
