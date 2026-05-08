@@ -81,11 +81,7 @@ Direct API billing. Good if you already use the Claude API for other work.
 
 See `openclaw onboard --help` for the full list of supported auth paths (OpenRouter, local LM Studio / Ollama, DeepSeek, Kimi, Gemini, etc.).
 
-## Want Someone to Set This Up For You?
 
-**[OpenClaw Agency (OCA)](https://hypelab.digital/oca)** is a managed retainer where we install, configure, and run your agents for you. Custom playbooks, CI/CD integration, ongoing optimization. Plans start at $2k/mo.
-
-→ [Learn more at hypelab.digital/oca](https://hypelab.digital/oca)
 
 ## What's Inside
 
