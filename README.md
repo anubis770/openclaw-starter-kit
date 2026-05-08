@@ -4,8 +4,6 @@ A battle-tested workspace template for giving your AI agent personality, memory,
 
 Compatible with **OpenClaw 2026.4.18+** (Claude Opus 4.7 supported).
 
-Built by [@jeffweisbein](https://x.com/jeffweisbein) — shared on [This Week in Startups](https://thisweekinstartups.com).
-
 ## What's New (v2.3 — April 22, 2026)
 
 - **Claude subscription path restored** — `openclaw onboard --auth-choice anthropic-cli` is the recommended path again, routing Anthropic model calls through the Claude Code CLI so your Max/Pro subscription keeps covering usage. Compatible with OpenClaw 2026.4.18+ and Claude Opus 4.7.
